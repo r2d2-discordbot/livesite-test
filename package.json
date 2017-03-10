@@ -2,7 +2,7 @@
   "name": "livesite",
   "version": "1.0.0",
   "description": "make my site live :D",
-  "main": "dashboard.js",
+  "main": "app.js",
   "scripts": {
     "test": "node dashboard.js"
   },
