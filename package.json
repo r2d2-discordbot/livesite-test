@@ -1,0 +1,27 @@
+{
+  "name": "livesite",
+  "version": "1.0.0",
+  "description": "make my site live :D",
+  "main": "dashboard.js",
+  "scripts": {
+    "test": "node dashboard.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r2d2-discordbot/livesite-test.git"
+  },
+  "keywords": [
+    "live"
+  ],
+  "author": "barredgalaxy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r2d2-discordbot/livesite-test/issues"
+  },
+  "homepage": "https://github.com/r2d2-discordbot/livesite-test#readme",
+  "dependencies": {
+    "discord.js": "^11.0.0",
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  }
+}
